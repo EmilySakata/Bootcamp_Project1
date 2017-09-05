@@ -1,4 +1,5 @@
 Strava Project
+-------------
 
 Strava project is a python data analysis performed to understand key questions we had below from the San Francisco Marathon race of 2017. 
 To answer below key questions, we used techniques such as data scraping, data cleansing, and data visualization using python programing language.
@@ -60,15 +61,17 @@ Link to the Slides: https://docs.google.com/presentation/d/13T7g8kIl3w5cETWUAfhT
 
 -------------------------------------------------------------
 Contributors:
-Contributor     | Github link
-----------------| -------------
+
 Daniel Saw      | https://github.com/dsdata1
+
 Emily Sakata    | https://github.com/EmilySakata
 
 -------------------------------------------------------------
 
 Technologies Used:
-Python
-CSV
+
+-Python
+
+-CSV
 
 
