@@ -33,7 +33,9 @@ This file was used to answer to the question "What does the Strava user populati
 
 Imports csv files extracted from SFmarathon2017-Final and Strava_SF2017_Finishtime to plot both data to analyze the Strava user performance and Strava user demographics. Also calculate the mean and standard deviation to understand the spread of Strava user data.
 
-![Number of runners vs finishtime](images/strava vs race.png)
+![Number of runners vs finishtime](/images/strava vs race.png)
+Format: ![Alt Text](url)
+
 
 Used the merged data to find the Strave user demographics.
 
