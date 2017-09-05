@@ -48,6 +48,7 @@ Used the merged data to find the Strave user demographics.
 Description:
 This file was used to answer "How did Top20 Strava users perform on the race day ?" and "What can we do to race for better performance?"
 
+![top20runners](https://github.com/EmilySakata/Strava_project/blob/master/images/Top20runner.png)
 
 Gathered top 20 user data from strava and plotted average pace per mile.
 
