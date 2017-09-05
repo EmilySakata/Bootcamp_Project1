@@ -11,11 +11,16 @@ Key questions are:
 
 Jupyter notebook file
 -------------------------------------------------------------
-1) SFmarathon2017-Final.ipynb
 
-We analyze strava user performance in the SF2017 Marathon.   
+> **1) SFmarathon2017-Final.ipynb **
+
+> We analyze strava user performance in the SF2017 Marathon.   
 Jupyter notebook file is used to scrape San Francisco Marathon Official Result of 2017. 
 Then, format the data to create the dataframe. Extract the dataframe tables into 2 csv files that will be used as the data input to merged strava and SF marathon jupyter file.
+
+#### <i class="icon-file"></i> Create a document
+
+
 
 
 
@@ -33,13 +38,12 @@ This file was used to answer to the question "What does the Strava user populati
 
 Imports csv files extracted from SFmarathon2017-Final and Strava_SF2017_Finishtime to plot both data to analyze the Strava user performance and Strava user demographics. Also calculate the mean and standard deviation to understand the spread of Strava user data.
 
-![Number of runners vs finishtime](/images/strava vs race.png)
-Format: ![Alt Text](url)
+![strava%20vs%20race.png](https://github.com/EmilySakata/Strava_project/blob/master/images/strava%20vs%20race.png)
 
 
 Used the merged data to find the Strave user demographics.
 
-
+![total_compete](https://github.com/EmilySakata/Strava_project/blob/master/images/total_compete.png)
 
 4) Strava_Top20.ipynb
 Description:
