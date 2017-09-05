@@ -11,14 +11,12 @@ Key questions are:
 
 Jupyter notebook file
 -------------------------------------------------------------
+1) SFmarathon2017-Final.ipynb
 
-> **1) SFmarathon2017-Final.ipynb **
-
-> We analyze strava user performance in the SF2017 Marathon.   
+We analyze strava user performance in the SF2017 Marathon.   
 Jupyter notebook file is used to scrape San Francisco Marathon Official Result of 2017. 
 Then, format the data to create the dataframe. Extract the dataframe tables into 2 csv files that will be used as the data input to merged strava and SF marathon jupyter file.
 
-#### <i class="icon-file"></i> Create a document
 
 
 
@@ -62,8 +60,10 @@ Link to the Slides: https://docs.google.com/presentation/d/13T7g8kIl3w5cETWUAfhT
 
 -------------------------------------------------------------
 Contributors:
-Daniel Saw Github link: https://github.com/dsdata1
-Emily Sakata Github link: https://github.com/EmilySakata
+Contributor     | Github link
+----------------| -------------
+Daniel Saw      | https://github.com/dsdata1
+Emily Sakata    | https://github.com/EmilySakata
 
 -------------------------------------------------------------
 
